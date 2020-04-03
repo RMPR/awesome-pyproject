@@ -87,6 +87,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 - [Tartufo](https://tartufo.readthedocs.io/en/latest/configuration.html#configuration-via-file) - Searches through git repositories and their history for high entropy strings and secrets.
 - [Vendy](https://github.com/di/vendy) - A tool for vendoring third-party packages into your project.
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
+- [atbswp](https://github.com/rmpr/atbswp) - Minimalist keyboard macro and mouse recording and playback tool
 
 
 ## Articles
